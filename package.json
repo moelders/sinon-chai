@@ -10,14 +10,14 @@
     "mocks"
   ],
   "version": "2.4.0",
-  "author": "Domenic Denicola <domenic@domenicdenicola.com> (http://domenicdenicola.com)",
+  "author": "Domenic Denicola <domenic@domenicdenicola.com> (http://domenicdenicola.com), forked by Jaime Pastor",
   "license": "WTFPL",
   "repository": {
     "type": "git",
-    "url": "git://github.com/domenic/sinon-chai.git"
+    "url": "git@github.com:moelders/sinon-chai.git"
   },
   "bugs": {
-    "url": "http://github.com/domenic/sinon-chai/issues"
+    "url": "https://github.com/moelders/sinon-chai/issues"
   },
   "directories": {
     "lib": "./lib"

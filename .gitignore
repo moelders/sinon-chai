@@ -1,6 +1,35 @@
-/node_modules/
+# ----------------------------
+# ---      GIT ignore      ---
+# ----------------------------
+
+# Untracked files:
+/.project
+/.settings
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.bck
+*.orig
 /npm-debug.log
 
-/.coverage_data/
-/.coverage_debug/
-/cover_html/
+# Untracked tmp files
+# For Mac
+.DS_Store
+
+# Untracked file exceptions:
+
+# Untracked directories:
+/pids
+/logs
+/results
+/doc
+/jsdoc
+/lib-cov
+/node_modules
+/.coverage_data
+/.coverage_debug
+/cover_html
