@@ -35,19 +35,19 @@ equivalent is also available.
     </tr>
     <tr>
         <td>called</td>
-        <td>spy.should.have.been.called</td>
+        <td>spy.should.have.been.called()</td>
     </tr>
     <tr>
         <td>calledOnce</td>
-        <td>spy.should.have.been.calledOnce</td>
+        <td>spy.should.have.been.calledOnce()</td>
     </tr>
     <tr>
         <td>calledTwice</td>
-        <td>spy.should.have.been.calledTwice</td>
+        <td>spy.should.have.been.calledTwice()</td>
     </tr>
     <tr>
         <td>calledThrice</td>
-        <td>spy.should.have.been.calledThrice</td>
+        <td>spy.should.have.been.calledThrice()</td>
     </tr>
     <tr>
         <td>calledBefore</td>
@@ -59,11 +59,11 @@ equivalent is also available.
     </tr>
     <tr>
         <td>calledWithNew</td>
-        <td>spy.should.have.been.calledWithNew</td>
+        <td>spy.should.have.been.calledWithNew()</td>
     </tr>
     <tr>
         <td>alwaysCalledWithNew</td>
-        <td>spy.should.always.have.been.calledWithNew</td>
+        <td>spy.should.always.have.been.calledWithNew()</td>
     </tr>
     <tr>
         <td>calledOn</td>
